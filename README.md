@@ -5,7 +5,11 @@ Node whisperers explain how (exit/home) nodes work and keep them from misbehavin
 Existing node whisperers include @juul , @paidforby and @jhpoelen - talk to them if you'd like to learn how to whisper too.
 
 ## concepts
-1. basic understanding of ip addresses, internet routing, osi model.
+1. understanding of ip addresses, internet routing, osi model.
+2. git / github
+3. ssh
+4. tunneldigger
+5. babeld
 
 ## exercises 
 
