@@ -25,6 +25,7 @@ You can also **leave a symbol of your intention to research a question** and ret
 
 #### What is a gateway address?
 ##### Is the gateway concept specific to IPv4 and its small address space? Do you still need gateways to route IPv6 traffic?
+@bengo and @bennlich think you need gateways in both IPv4 and IPv6 networks. An IPv6 network is still a network of networks, so you still need gateways to route packets between adjacent networks. We think that w/o gateways, your routing table would need an entry for every computer on the internet (as opposed to a mapping from subnets -> IP addresses of gateway machines that know how to deliver packets within a certain subnet).
 
 #### What is a subnet?
 ##### What is a subnet mask?
