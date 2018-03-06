@@ -31,6 +31,7 @@ You can also **leave a symbol of your intention to research a question** and ret
 ##### What is a subnet mask?
 
 #### On Linux, what are the components of a route in a routing table?
+##### Why does a route include a gateway address *and* and an interface if an interface already has an associated ip address?
 
 @wwwhtml can you clarify the next two questions a bit? I couldn't figure out how to phrase.
 
