@@ -30,8 +30,12 @@ You can also **leave a symbol of your intention to research a question** and ret
 #### What is a subnet?
 ##### What is a subnet mask?
 
+#### What is a bridge?
+
 #### On Linux, what are the components of a route in a routing table?
 ##### Why does a route include a gateway address *and* and an interface if an interface already has an associated ip address?
+
+#### How does traceroute work?
 
 @wwwhtml can you clarify the next two questions a bit? I couldn't figure out how to phrase.
 
@@ -46,8 +50,10 @@ You can also **leave a symbol of your intention to research a question** and ret
 #### What is a home node?
 
 #### What is an exit node?
+##### If a home node is connected to more than one exit node, which one does it use?
 
 #### What is babeld?
+##### When does babeld use IPv6 vs IPv4?
 
 #### What is tunneldigger? 
 ##### At a low level, what does it do? How does it send/receive packets?
