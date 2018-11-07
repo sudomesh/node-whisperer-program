@@ -14,12 +14,12 @@ We use Tunneldigger to establish *exit nodes*, which solve two problems:
 - connecting submeshes to the open internet
 - connecting two more disparate submeshes *over* the open internet.
 
-In particular, we could create an exit node E with a public IP address.
-Suppose that Cow can reach E over a WAN connection provided by Cow's ISP,
-and Platypus can reach E over the WAN connection in her dorm room.
+In particular, we could create an exit node `E` with a public IP address.
+Suppose that `Cow` can reach `E` over a WAN connection provided by `Cow`'s ISP,
+and `Platypus` can reach `E` over the WAN connection in her dorm room.
 
-Then, they can each "dig tunnels" to E.
-Since E is just another node, it routes traffic from Cow to Platypus and vice versa,
+Then, they can each "dig tunnels" to `E`.
+Since `E` is just another node, it routes traffic from `Cow` to `Platypus` and vice versa,
 connecting mesh A with mesh B.
 
 ### So, what's an exit node?
