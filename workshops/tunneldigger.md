@@ -3,11 +3,11 @@
 
 Suppose we have two networks, `A = {Cow, Chicken, Goat}` and `B = {Manatee, Platypus}`,
 in which:
-- all of the nodes in A can mesh with one another via wireless connections,
-- all of the nodes in B can mesh with one another via wireless connections, *but* ...
-- nodes in A cannot reach nodes in B, and vice versa.
+- all of the nodes in `A` can mesh with one another via wireless connections,
+- all of the nodes in `B` can mesh with one another via wireless connections, *but* ...
+- nodes in `A` cannot reach nodes in `B`, and vice versa.
 
-Let's refer to A and B as distinct *submeshes*.
+Let's refer to `A` and `B` as distinct *submeshes*.
 They could be in different neighborhoods or even different continents. It's all good!
 
 We use Tunneldigger to establish *exit nodes*, which solve two problems:
@@ -20,7 +20,7 @@ and `Platypus` can reach `E` over the WAN connection in her dorm room.
 
 Then, they can each "dig tunnels" to `E`.
 Since `E` is just another node, it routes traffic from `Cow` to `Platypus` and vice versa,
-connecting mesh A with mesh B.
+connecting mesh `A` with mesh `B`.
 
 ### So, what's an exit node?
 An exit node is just another node on the mesh!
