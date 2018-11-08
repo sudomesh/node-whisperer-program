@@ -24,7 +24,7 @@ a) laptop with ethernet port
 b) 2 homenodes 
 c) 1 exitnode (locally/remote)
 
-1. re-enact packet routing in person by passing pieces of around (needs links)
+1. re-enact packet routing in person by [passing pieces of paper around](https://github.com/sudomesh/node-whisperer-program/blob/master/workshops/icmp.md)
 2. show packets arriving at an exit node 
 3. trace packets from a laptop, via a home node to an exit node to the "internet"
 4. draw the topology of the mesh network using the routing table
