@@ -2,7 +2,7 @@
 
 Node whisperers explain how (exit/home) nodes work and keep them from misbehaving by troubleshooting, preparing bug fixes, applying patches, implementing new features and upgrading software. To become a node whisperer, you should be able to show someone how to build your own internet by configuring one, (ideally two) home node(s) (https://peoplesopen.net/walkthrough ) to use a custom, self-created exitnode (https://github.com/sudomesh/exitnode ). This also includes showing how babeld and tunneldigger work together by using (and improving!) https://github.com/sudomesh/babeld-lab and https://github.com/sudomesh/tunneldigger-lab on the home and exit nodes using tools like ip route , ip addr, tcpdump . 
 
-Existing node whisperers include @juul , @paidforby and @jhpoelen - talk to them if you'd like to learn how to whisper too.
+Existing node whisperers include https://github.com/juul , https://github.com/paidforby, https://github.com/eenblam, https://github.com/bennlich and https://github.com/jhpoelen - talk to them if you'd like to learn how to whisper too.
 
 ## notes and discussion
 
